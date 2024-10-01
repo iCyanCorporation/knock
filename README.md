@@ -16,7 +16,7 @@ To install Knock, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/knock.git
+git clone https://github.com/iCyanCorporation/knock.git
 
 # Navigate to the project directory
 cd knock

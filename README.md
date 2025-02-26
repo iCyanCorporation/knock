@@ -56,3 +56,4 @@ https://github.com/asdf-vm/asdf
 https://github.com/google/osv-scanner
 https://github.com/aquasecurity/trivy
 https://github.com/future-architect/vuls
+https://github.com/jdx/mise
